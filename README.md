@@ -2,7 +2,7 @@
 
 ## Goal
 
-In this challenge, we invite you to step into the role of a hacker. Your first objective will be to access to a corporate network by infiltrating a user's machine. Once you have gained access to this machine, your ultimate goal will be to gain control over the company's domain.
+In this challenge, we invite you to step into the role of a hacker. Your first objective will be to access to a corporate network by infiltrating a user's machine. Once you have gained access to this machine, your ultimate goal will be to gain control over the company's domain. After that is complete it will be up to you to investigate with the tools like Generative AI and Machine Level defenses. Finally, it will be critical to create a quick remediation and summaries of the incidents for your management.  
 
 Are you ready? 
 
