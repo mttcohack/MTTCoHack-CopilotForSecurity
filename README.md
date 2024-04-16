@@ -1,4 +1,4 @@
-# Hacking-Game on Copilot for Security
+# Hacking Game on Copilot for Security
 
 ## Goal
 
