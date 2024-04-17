@@ -1,8 +1,8 @@
 # Hacking Game on Copilot for Security
 
-## Goal
+## Challenge 1 Goal
 
-In this challenge, we invite you to step into the role of a hacker. Your first objective will be to access to a corporate network by infiltrating a user's machine. Once you have gained access to this machine, your ultimate goal will be to gain control over the company's domain. After that is complete it will be up to you to investigate with the tools like Generative AI and Machine Level defenses. Finally, it will be critical to create a quick remediation and summaries of the incidents for your management.  
+In this challenge, we invite you to step into the role of a Attacker (hacker). Your first objective will be to access to a corporate network by infiltrating a user's machine. Once you have gained access to this machine, your ultimate goal will be to gain control over the company's domain.   
 
 Are you ready? 
 
@@ -44,4 +44,31 @@ There are 3 VMs: Hack-vm (Windows10), Workstation-vm (Windows10) and Dc-vm (Wind
     - https://securitytutorials.co.uk/brute-forcing-passwords-with-thc-hydra/
     - https://github.com/adeldjama/Hacking-Game/blob/37fa336979bbdabf53f53ce07d7832900f47b2c4/resources/username.txt
     - https://github.com/adeldjama/Hacking-Game/blob/37fa336979bbdabf53f53ce07d7832900f47b2c4/resources/password.txt
+  
+## Challenge 2 Goal
 
+Now you are security Defender trying to fix what the Attacker has done to stop further unauthorized access to the environment. The primary objective is to protect the corporate network from any potential threats. Your management wants a central location to check on all invcidents and threats. They have asked to enable tools like Generative AI and Machine Level defenses. 
+
+Below is a suggested response to approach the situation. These do not have to be used as there many ways of accomplishing the goal:
+
+  **Investigation:**
+
+  1. **User's Machine Infiltration:** I would first investigate the user's machine for any signs of unauthorized access. This could involve checking for unusual network traffic, unfamiliar processes running on the system, or unexpected changes in system files.
+
+  2. **Network Access:** If the attacker has gained access to the corporate network, I would use network monitoring tools to identify any unusual activity. This could include unexpected data transfers, connections to unfamiliar IP addresses, or unusual patterns of network traffic.
+
+  3. **Domain Control:** Gaining control over a company's domain is a serious threat. I would check the domain controller for any signs of unauthorized access or changes. This could involve checking logs for unexpected administrative actions, or looking for changes in user permissions or group memberships.
+
+  **Tools:**
+
+  - **Generative AI:** I would use Generative AI to simulate potential attack scenarios and test the robustness of our defenses. This could help identify vulnerabilities and improve our response to real attacks.
+
+  - **Machine Level Defenses:** I would employ machine-level defenses such as antivirus software, firewalls, and intrusion detection systems to protect individual machines and the network as a whole.
+
+  **Remediation:**
+
+  Upon identifying the threat, I would take immediate action to mitigate the damage. This could involve isolating affected systems, removing malicious software, and reversing any unauthorized changes. I would also work to strengthen our defenses to prevent similar attacks in the future.
+
+  **Incident Summary:**
+
+  Finally, I would prepare a summary of the incident for management. This would include details of the attack, the steps taken to mitigate the damage, and recommendations for preventing similar incidents in the future. It's crucial to learn from these incidents and continually improve our security posture.
