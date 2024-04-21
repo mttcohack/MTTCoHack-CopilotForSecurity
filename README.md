@@ -74,3 +74,9 @@ Below is a suggested response to approach the situation. These do not have to be
   **Incident Summary:**
 
   Finally, I would prepare a summary of the incident for management. This would include details of the attack, the steps taken to mitigate the damage, and recommendations for preventing similar incidents in the future. It's crucial to learn from these incidents and continually improve our security posture.
+
+## Resources
+
+1. Unified Security Operations Platform
+   - https://learn.microsoft.com/en-us/azure/sentinel/microsoft-sentinel-defender-portal
+   - https://learn.microsoft.com/en-us/copilot/security/get-started-security-copilot
