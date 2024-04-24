@@ -69,11 +69,17 @@ Below is a suggested response to approach the situation. These do not have to be
 
   **Remediation:**
 
-  Upon identifying the threat, I would take immediate action to mitigate the damage. This could involve isolating affected systems, removing malicious software, and reversing any unauthorized changes. I would also work to strengthen our defenses to prevent similar attacks in the future.
+  - Upon identifying the threat, I would take immediate action to mitigate the damage. This could involve isolating affected systems, removing malicious software, and reversing any unauthorized changes. I would also work to strengthen our defenses to prevent similar attacks in the future.
 
   **Incident Summary:**
 
-  Finally, I would prepare a summary of the incident for management. This would include details of the attack, the steps taken to mitigate the damage, and recommendations for preventing similar incidents in the future. It's crucial to learn from these incidents and continually improve our security posture.
+  - Finally, I would prepare a summary of the incident for management. This would include details of the attack, the steps taken to mitigate the damage, and recommendations for preventing similar incidents in the future. It's crucial to learn from these incidents and continually improve our security posture.
+
+**Additional Suggestion:**
+
+ - **Prompts:** To create effective prompts give Generative AI adequate and useful parameters to generate a valuable response. The following suggestion are elements should be included when writing a prompt.
+
+   ![archi](./images/Prompts.png)
 
 ## Resources
 
