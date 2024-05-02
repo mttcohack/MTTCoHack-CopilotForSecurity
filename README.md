@@ -49,7 +49,7 @@ There are 3 VMs: Hack-vm (Windows10), Workstation-vm (Windows10) and Dc-vm (Wind
   
 ## Challenge 2 Goal
 
-Now you are security Defender trying to fix what the Attacker has done to stop further unauthorized access to the environment. The primary objective is to protect the corporate network from any potential threats. Your management wants a central location to check on all invcidents and threats. They have asked to enable tools like Generative AI and Machine Level defenses. 
+Now you are a security Defender trying to fix what the Attacker has done to stop further unauthorized access to the environment. The primary objective is to protect the corporate network from any potential threats. Your management wants a central location to check on all invcidents and threats. They have asked to enable tools like Generative AI and Machine Level defenses. 
 
 Below is a suggested response to approach the situation. These do not have to be used as there many ways of accomplishing the goal:
 
