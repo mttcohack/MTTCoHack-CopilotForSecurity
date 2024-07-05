@@ -43,7 +43,7 @@ There are 3 VMs: Hack-vm (Windows10), Workstation-vm (Windows10) and Dc-vm (Wind
 
 3. Hydra 
     - https://github.com/maaaaz/thc-hydra-windows
-    - https://securitytutorials.co.uk/brute-forcing-passwords-with-thc-hydra/
+    - https://medium.com/@cuncis/hydra-a-powerful-tool-for-password-cracking-and-network-security-testing-cheat-sheet-6573b74071ee
     - https://github.com/adeldjama/Hacking-Game/blob/37fa336979bbdabf53f53ce07d7832900f47b2c4/resources/username.txt
     - https://github.com/adeldjama/Hacking-Game/blob/37fa336979bbdabf53f53ce07d7832900f47b2c4/resources/password.txt
   
