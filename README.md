@@ -19,15 +19,15 @@ There are 3 VMs: Hack-vm (Windows10), Workstation-vm (Windows10) and Dc-vm (Wind
 
 1. Connect to the Hack-vm using RDP. Your coach will provide you with the Public IP address and credentials.
 
-2. Use a tool from the toolbox to discover the private IP address of the Workstation-vm.
+2. Use nmap to discover the private IP address of the Workstation-vm.
 
-3. Use a tool from the toolbox to find the login and password that will allow you to connect to the Workstation-vm using RDP.
+3. Use hydra to find the login and password that will allow you to connect to the Workstation-vm using RDP.
 
 4. Connect to the Workstation-vm using RDP and the login and password found in step 3.
 
-5. Discover the IP address of the domain controller Dc-vm.  
+5. Discover the IP address of the domain controller Dc-vm (nslookup).  
 
-6. Use a tool from the toolbox, (a) to find the login and password hash of the Domain Admin then (b) to connect to the domain controller using RDP.
+6. Use mimikatz, (a) to find the login and password hash of the Domain Admin then (b) to connect to the domain controller using RDP.
 
 
   >**Note**: Each tool should be used one time  
