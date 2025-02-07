@@ -1,4 +1,4 @@
-# Hacking Game on Copilot for Security
+# Hacking Game on Security Copilot
 
 ## Challenge 1 Goal
 
@@ -6,7 +6,7 @@ In this challenge, we invite you to step into the role of a Attacker (hacker). Y
 
 Are you ready? 
 
->**Note**: We encourage participants of the CoHack to utilize their own subscription or Bring Your Own Subscription (BYOS) to ensure they can fully engage with and effectively tackle the challenges presented. As of April 2024, we would like to inform you that demo environments are not available for this event. Additionally, Copilot for Security is not designed for use by customers using US government clouds. We appreciate your understanding and are here to support you throughout the experience. For cost details please see: https://azure.microsoft.com/en-us/pricing/details/microsoft-security-copilot
+>**Note**: We encourage participants of the CoHack to utilize their own subscription or Bring Your Own Subscription (BYOS) to ensure they can fully engage with and effectively tackle the challenges presented. As of April 2024, we would like to inform you that demo environments are not available for this event. Additionally, Security Copilot is not designed for use by customers using US government clouds. We appreciate your understanding and are here to support you throughout the experience. For cost details please see: https://azure.microsoft.com/en-us/pricing/details/microsoft-security-copilot
 
 ## Environment 
 
